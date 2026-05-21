@@ -1,11 +1,22 @@
-Labnerd.net
+# Labnerd.net
 
 Building full-stack web applications with TypeScript, React, and Node.js.
-Projects
-cfb-pickem -- College football pick'em league with user accounts, admin tools, and Docker deployment. Full-stack TypeScript monorepo with CI/CD.
-trivia-app -- Multiplayer trivia quiz app with thousands of questions. Tracks seen questions per player, Docker-hosted on Dokploy.
-tv-tracker -- TV show tracking app. Full-stack monorepo with batch episode fetching, caching, and Docker deployment.
-dev-stash -- Developer resource bookmarking app built with Next.js and Drizzle ORM.
-Tech Stack
 
-TypeScript - React - Node.js - Next.js - Postgres - Docker - Drizzle ORM - Turborepo
+---
+## Projects
+
+### [cfb-pickem](https://github.com/Labnerd-net/cfb-pickem)
+College football pick'em league with user accounts, admin tools, and automated season simulation. Full-stack TypeScript monorepo with Docker deployment and CI/CD pipeline.
+### [trivia-app](https://github.com/Labnerd-net/trivia-app)
+Multiplayer trivia quiz app with thousands of questions across multiple categories. Tracks seen questions per player to avoid repeats. Docker-hosted on Dokploy with multiple question providers.
+### [tv-tracker](https://github.com/Labnerd-net/tv-tracker)
+TV show tracking app built as a full-stack monorepo. Features batch episode fetching, TTL caching, and Docker-based deployment with CI/CD workflows.
+### [dev-stash](https://github.com/Labnerd-net/dev-stash)
+Developer resource bookmarking app built with Next.js and Drizzle ORM. Save, organize, and quickly access your dev tools, references, and documentation.
+
+---
+## Tech Stack
+Languages: TypeScript, JavaScript  Frontend: React, Next.js  Backend: Node.js  Database: PostgreSQL, Drizzle ORM  Infrastructure: Docker, CI/CD, Turborepo  
+
+---
+Find me at [LinkedIn](https://www.linkedin.com/in/brian-ladner-a8902bb}
