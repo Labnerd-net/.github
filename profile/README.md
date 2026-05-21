@@ -24,4 +24,4 @@ Developer resource bookmarking app built with Next.js and Drizzle ORM. Save, org
 - Infrastructure: Docker, CI/CD
 
 ---
-Find me at [LinkedIn](https://www.linkedin.com/in/brian-ladner-a8902bb)
+Find me (Brian Ladner) at [LinkedIn](https://www.linkedin.com/in/brian-ladner-a8902bb)
