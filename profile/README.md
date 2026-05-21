@@ -17,11 +17,11 @@ Developer resource bookmarking app built with Next.js and Drizzle ORM. Save, org
 ---
 ## Tech Stack
 
-Languages: TypeScript, JavaScript
-Frontend: React, Next.js
-Backend: Node.js
-Database: PostgreSQL, Drizzle ORM  
-Infrastructure: Docker, CI/CD
+- Languages: TypeScript, JavaScript
+- Frontend: React, Next.js
+- Backend: Node.js
+- Database: PostgreSQL, Drizzle ORM  
+- Infrastructure: Docker, CI/CD
 
 ---
 Find me at [LinkedIn](https://www.linkedin.com/in/brian-ladner-a8902bb}
