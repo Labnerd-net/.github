@@ -9,7 +9,7 @@ Building full-stack web applications with TypeScript, React, and Node.js.
 Data-driven database of miracles attributed to Catholic saints, with medical documentation, source trails, and a public REST API. Astro + Cloudflare Workers frontend, Hono/Zod API layer, Neon Postgres via Drizzle.
 ### [dev-stash](https://github.com/Labnerd-net/dev-stash)
 Developer resource bookmarking app built with Next.js and Drizzle ORM. Save, organize, and quickly access your dev tools, references, and documentation.
-### [cfb-pickem](https://github.com/Labnerd-net/cfb-pickem)
+### [cfb-pickem-leagues](https://github.com/Labnerd-net/cfb-pickem-leagues)
 College football pick'em league with user accounts, admin tools, and automated season simulation. Full-stack TypeScript monorepo with Docker deployment and CI/CD pipeline.
 ### [trivia-app](https://github.com/Labnerd-net/trivia-app)
 Multiplayer trivia quiz app with thousands of questions across multiple categories. Tracks seen questions per player to avoid repeats. Docker-hosted on Dokploy with multiple question providers.
