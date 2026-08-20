@@ -12,7 +12,7 @@ Developer resource bookmarking app built with Next.js and Drizzle ORM. Save, org
 ### [cfb-pickem-leagues](https://github.com/Labnerd-net/cfb-pickem-leagues)
 College football pick'em league with user accounts, admin tools, and automated season simulation. Full-stack TypeScript monorepo with Docker deployment and CI/CD pipeline.
 ### [trivia-app](https://github.com/Labnerd-net/trivia-app)
-Multiplayer trivia quiz app with thousands of questions across multiple categories. Tracks seen questions per player to avoid repeats. Docker-hosted on Dokploy with multiple question providers.
+Multiplayer trivia quiz app with thousands of questions across multiple categories. Tracks seen questions per player to avoid repeats. Deployed on Cloudflare with multiple question providers.
 ### [tv-tracker](https://github.com/Labnerd-net/tv-tracker)
 TV show tracking app built as a full-stack monorepo. Features batch episode fetching, TTL caching, and Docker-based deployment with CI/CD workflows.
 
