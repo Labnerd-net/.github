@@ -5,17 +5,17 @@ Building full-stack web applications with TypeScript, React, and Node.js.
 ---
 ## Projects
 
-### [TheMiracleRegister](https://github.com/Labnerd-net/TheMiracleRegister)
+### [TheMiracleRegister](https://git.labnerd.net/LabNerd/TheMiracleRegister)
 Data-driven database of miracles attributed to Catholic saints, with medical documentation, source trails, and a public REST API. Astro + Cloudflare Workers frontend, Hono/Zod API layer, Neon Postgres via Drizzle.
-### [HallowedTales](https://github.com/Labnerd-net/HallowedTales)
+### [HallowedTales](https://git.labnerd.net/LabNerd/HallowedTales)
 Companion site to TheMiracleRegister covering Catholic saint and miracle lore: legends, traditions, and folk customs, kept separate from the Register's verified record. Astro + Cloudflare Workers with Pagefind search.
-### [dev-stash](https://github.com/Labnerd-net/dev-stash)
+### [dev-stash](https://git.labnerd.net/LabNerd/dev-stash)
 Developer resource bookmarking app built with Next.js and Drizzle ORM. Save, organize, and quickly access your dev tools, references, and documentation.
 ### [cfb-pickem-leagues](https://github.com/Labnerd-net/cfb-pickem-leagues)
 College football pick'em league with user accounts, admin tools, and automated season simulation. Full-stack TypeScript monorepo with Docker deployment and CI/CD pipeline.
-### [trivia-app](https://github.com/Labnerd-net/trivia-app)
+### [trivia-app](https://git.labnerd.net/LabNerd/trivia-app)
 Multiplayer trivia quiz app with thousands of questions across multiple categories. Tracks seen questions per player to avoid repeats. Deployed on Cloudflare with multiple question providers.
-### [tv-tracker](https://github.com/Labnerd-net/tv-tracker)
+### [tv-tracker](https://git.labnerd.net/LabNerd/tv-tracker)
 TV show tracking app built as a full-stack monorepo. Features batch episode fetching, TTL caching, and Docker-based deployment with CI/CD workflows.
 
 ---
