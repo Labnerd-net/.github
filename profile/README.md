@@ -11,7 +11,7 @@ Data-driven database of miracles attributed to Catholic saints, with medical doc
 Companion site to TheMiracleRegister covering Catholic saint and miracle lore: legends, traditions, and folk customs, kept separate from the Register's verified record. Astro + Cloudflare Workers with Pagefind search.
 ### [dev-stash](https://git.labnerd.net/LabNerd/dev-stash)
 Developer resource bookmarking app built with Next.js and Drizzle ORM. Save, organize, and quickly access your dev tools, references, and documentation.
-### [cfb-pickem-leagues](https://github.com/Labnerd-net/cfb-pickem-leagues)
+### [cfb-pickem-leagues](https://git.labnerd.net/LabNerd/cfb-pickem-leagues)
 College football pick'em league with user accounts, admin tools, and automated season simulation. Full-stack TypeScript monorepo with Docker deployment and CI/CD pipeline.
 ### [trivia-app](https://git.labnerd.net/LabNerd/trivia-app)
 Multiplayer trivia quiz app with thousands of questions across multiple categories. Tracks seen questions per player to avoid repeats. Deployed on Cloudflare with multiple question providers.
